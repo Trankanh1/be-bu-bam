@@ -1,0 +1,100 @@
+
+
+
+.footer4 button {
+    cursor: pointer;
+    border: none;
+    height: 40px;
+    width: 80px;
+    background: #15c;
+    border-radius: 3px;
+    color: #fff;
+    position: relative;
+    left: 205px;
+    bottom:40px
+}
+.footer-grids input {
+    width: 100%;
+    border: 1px solid #15c!important;
+    color: #222;
+    font-size: 13px;
+    font-weight: 400;
+    padding: 10px 80px 10px 10px;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+.menu ul {
+
+    padding: 0;
+    list-style-type: none;
+    text-align: left;
+ 
+  }
+  .menu li {
+    width: auto;
+    height: 15px;
+
+  }
+  .menu li a {
+    text-decoration: none;
+    color: #333;
+ 
+    display: block;
+    
+  }
+
+.menu1 p{
+  background:white;
+  
+  padding: 0;
+  list-style-type: none;
+}
+.border { 
+  border: 1px solid rgb(230, 227, 227);
+  
+  width: 800px;
+  
+}
+.right-acc {
+  width: 725px;
+  float: left;
+  border: 1px solid #ededed;
+  position: relative;
+  margin-bottom: 60px;
+}
+.box-info-acc {
+  float: left;
+  margin: 20px 30px;
+}
+.info-title {
+  font-size: 16px;
+  width: 100%;
+  border-bottom: 1px solid #aaa;
+  color: #222;
+  padding-bottom: 5px;
+}
+.fl-left {
+  float: left;
+}
+span {
+  font-size: 13px;
+}
+.avatar img {
+    border-radius: 50%;
+    border: 5px solid rgba(255, 255, 255, .1);
+}
+.avatar {
+    text-align: center;
+    padding: 40px 0;
+
+}
+.sidebar {
+    width: 35%;
+
+    color: #fff;
+}
+.wrapper {
+    max-width: 1170px;
+    width: 100%;
+    margin: auto;
+}
